@@ -1,0 +1,27 @@
+{
+  "name": "http-request-in-node",
+  "version": "1.0.0",
+  "description": "Multiple Options for making http request in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krishank/http-request-in-node.git"
+  },
+  "keywords": [
+    "node-request"
+  ],
+  "author": "Krishank Dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krishank/http-request-in-node/issues"
+  },
+  "homepage": "https://github.com/Krishank/http-request-in-node#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "node-fetch": "^2.3.0",
+    "request": "^2.88.0"
+  }
+}
