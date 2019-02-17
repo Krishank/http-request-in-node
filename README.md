@@ -3,7 +3,7 @@
 
   
 
-Node has multiple Native and custom options to make http request not we are going to cove few of them.
+Node has multiple Native and custom options to make http request now we are going to cove few of them.
 
   
 
